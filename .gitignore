@@ -1,0 +1,6 @@
+# Ignore AppData and other system folders
+AppData/
+Local/
+History/
+INetCache/
+Temporary Internet Files/
