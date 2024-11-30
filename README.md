@@ -1,8 +1,3 @@
-إليك النص الكامل لملف `README.md` بدون شروحات، يمكنك نسخه مباشرة:
-
-```markdown
-# Scienceveli Game
-
 Welcome to the repository for **Scienceveli**, an educational game designed to teach kids the basics of programming in a fun and interactive way!
 
 ## Features:
